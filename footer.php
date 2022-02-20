@@ -11,9 +11,9 @@
     </div>
 
         <div style=" font-weight: bold;">
-            <a href="/halloween/page1.html" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
-            <a href="/noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br>
-            <a href="/sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br><br>
+            <a href="./hallowee" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
+            <a href="./noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br>
+            <a href="./sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br><br>
         <div>
 
     </div>
@@ -22,20 +22,20 @@
 
 </body>
 <script>
-    
+
 
 ///////////////////////////////////////////////////////////////////////////////////
-//  FONCTION POUR GENERER LE CONTENU DE CONTAINER CENTRAL EN FONCTION DUN CLIC  // 
+//  FONCTION POUR GENERER LE CONTENU DE CONTAINER CENTRAL EN FONCTION DUN CLIC  //
 //  ET POUR DONNER UN EFFET LUMINEUX SUR DERNIER BOUTON CLIQUE                  //
 //////////////////////////////////////////////////////////////////////////////////
 
 
     function run1() {
- 
+
         $.ajax({
-            url: "./b1.php", 
-            dataType: "html", 
-            
+            url: "./b1.php",
+            dataType: "html",
+
             success: function(response){
                 document.getElementById("introAK").innerHTML = response;
 
@@ -58,11 +58,11 @@
     }
 
     function run2() {
-        
+
         $.ajax({
-            url: "./b2.php", 
-            dataType: "html", 
-            
+            url: "./b2.php",
+            dataType: "html",
+
             success: function(response){
                 document.getElementById("introAK").innerHTML = response;
 
@@ -86,9 +86,9 @@
 
     function run3() {
         $.ajax({
-            url: "./b3.php", 
-            dataType: "html", 
-            
+            url: "./b3.php",
+            dataType: "html",
+
             success: function(response){
                 //alert("success !");
                 document.getElementById("introAK").innerHTML = response;
@@ -112,9 +112,9 @@
 
     function run4() {
         $.ajax({
-            url: "./b4.php", 
-            dataType: "html", 
-            
+            url: "./b4.php",
+            dataType: "html",
+
             success: function(response){
                 //alert("success !");
                 document.getElementById("introAK").innerHTML = response;
@@ -123,7 +123,7 @@
                  document.getElementById("bouton1").style.border = ""
                  document.getElementById("bouton3").style.border = ""
                  document.getElementById("bouton2").style.border = ""
-                
+
                  document.getElementById("bb4").style.border = "#FFBE40 3px solid"
                  document.getElementById("bb1").style.border = ""
                  document.getElementById("bb3").style.border = ""
@@ -136,11 +136,11 @@
         });
     }
 
-    function run5() {   
+    function run5() {
         $.ajax({
-            url: "./intro.php", 
-            dataType: "html", 
-            
+            url: "./intro.php",
+            dataType: "html",
+
             success: function(response){
                 //alert("success !");
                 document.getElementById("introAK").innerHTML = response;
@@ -173,7 +173,7 @@
       mybutton.value= "2";
       return false ;
     } ;
-  
+
       if (mybutton.value=="2"){
       body.className = "bg4";
       mybutton.value= "3";
@@ -213,8 +213,8 @@
       body.className = "bg10";
       mybutton.value= "9";
       return false ;
-    } ;    
-    
+    } ;
+
     if (mybutton.value=="9"){
       body.className = "bg11";
       mybutton.value= "10";
