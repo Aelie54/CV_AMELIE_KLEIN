@@ -14,8 +14,9 @@
             <a href="./halloween/page1.html" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
             <a href="./noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br>
             <a href="./sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br>
-            <a href="https://github.com/Aelie54/CV_AMELIE_KLEIN"><img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt= "Dossier GitHub" style="height:50px"></a><br><br>
-
+            <div>
+              <a href="https://github.com/Aelie54/CV_AMELIE_KLEIN"><img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt= "Dossier GitHub" style="height:50px"></a><br><br>
+            </div>
         <div>
 
     </div>
