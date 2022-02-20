@@ -11,7 +11,7 @@
     </div>
 
         <div style=" font-weight: bold;">
-            <a href="./hallowee" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
+            <a href="./halloween/page1.html" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
             <a href="./noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br>
             <a href="./sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br><br>
         <div>
