@@ -9,7 +9,7 @@
 <br>
 
 <p> 
-    <span class= "italique">30 ans déjà • Habite à Vandoeuvre-lès-Nancy • Permis B et véhiculée</span>
+    <span class= "italique">30 ans • Habite à Vandoeuvre-lès-Nancy • Permis B, véhiculée</span>
 </p>
 
 <br>
