@@ -42,6 +42,21 @@
 
         <!-- COllapse accordeon -->
 
+        <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading3">
+            <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
+            <span class= "gras"><p>08/2020 - 11/2020 : Stage en Pharmacie</p></span>
+            </button>
+            </h2>
+
+            <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="flush-heading3" data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body"><p>Réception et gestion des stocks, mise en rayon et étiquetage des produits, préparation des dûs, enregistrements, encaissements et conseil clients, livraisons à domicile.</p></div>
+            </div>
+        </div>
+        <div class="accordion-item">
+
+        <!-- collapse 3-->
 
             <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
         <div class="accordion-item">
@@ -53,22 +68,6 @@
 
             <div id="flush-collapse2" class="accordion-collapse collapse" aria-labelledby="flush-heading2" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body"><p>Gestion des accidents du travail et des accidents bénins, prévention des risques professionnels, missions de conseil et d’animation. Organisation et préparation des CHSCT.</p></div>
-            </div>
-        </div>
-        <div class="accordion-item">
-
-        <!-- collapse 3-->
-
-        <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-heading3">
-            <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
-            <span class= "gras"><p>10/2016 - 08/2018 :  Assistante de Service Sécurité et Santé – Wig France Entreprises à Toul (Apprentie et CDD)</p></span>
-            </button>
-            </h2>
-
-            <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="flush-heading3" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body"><p>Aide aux certifications, suivi des accidents du travail, rédaction du bilan annuel, suivi d’indicateurs, gestion des dotations en équipements, actions de sensibilisation et d’information, veille réglementaire.</p></div>
             </div>
         </div>
         <div class="accordion-item">
