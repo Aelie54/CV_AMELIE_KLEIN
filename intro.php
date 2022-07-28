@@ -9,7 +9,7 @@
 <br>
 
 <p> 
-    <span class= "italique">30 ans déjà • Habite à Vandoeuvre-lès-Nancy • Permis B et véhiculée</span>
+    <span class= "italique">30 ans • Habite à Vandoeuvre-lès-Nancy • Permis B, véhiculée</span>
 </p>
 
 <br>
@@ -25,8 +25,8 @@
             <li> le langage PHP orienté objet (Doctrine/ORM et bientôt Symfony) pour le fonctionnement back-end et la gestion de la base de données, </li>
             <li> la création de router pour clarifier les chemins, avec les méthodes GET et POST pour gérer les éléments affichés depuis une base de données,</li>
             <li> le respect du modèle MVC dans l'organisation du code, </li>
-            <li> pour l'aspect visuel, les langages CSS, SCSS, ainsi que les outils Bootstrap et de Figma, </li>
-            <li> une approche également de Javascript et de la bibliothèque JQuerry pour modifier le DOM, et la découverte de la méthode Ajax, </li>
+            <li> pour l'aspect visuel, les langages CSS, SCSS, ainsi que les outils Bootstrap et Figma, </li>
+            <li> une approche également de Javascript et de la bibliothèque JQuerry pour modifier le DOM, et la découverte de la méthode Ajax, bientôt Typescript,</li>
             <li> l'utilisation d'API pour générer du contenu depuis une base de données extérieure (outil indispensable : Postman)<br></li>
         </ul>
 <p><br>
