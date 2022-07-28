@@ -14,13 +14,21 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-heading0">
                     <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapse0" aria-expanded="false" aria-controls="flush-collapse0">
-                        <span class= "gras"><p> Depuis le 25/10/2021 : Stagiaire de formation – Alaji (Villers-Lès-Nancy) </p></span>
+                        <p><span class= "gras"> Depuis le 25/10/2021 : Stagiaire de formation – Alaji (Villers-Lès-Nancy)</span></p>
                     </button>
                 </h2>
 
                 <div id="flush-collapse0" class="accordion-collapse collapse" aria-labelledby="flush-heading0" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body"><p>Préparation à la qualification développeur web et intégrateur web PHP orienté objet - Développement de la partie front-end et back-end d’un site internet web et web - mobile, création et gestion de bases de données <br>Langages de programmation et outils :<br>Visual Studio Code, Git Hub, HTML, CSS, SCSS, PHP orienté objet, Javascript, JQuery, Ajax, phpMyAdmin, MySQL, Python, utilisation d’API, respect du modèle MVC, écriture de routes, lecture et écriture d’UML, Bootstrap, Figma, ORM/Doctrine.</p></div>
+                    <div class="accordion-body">
+                        <p><span class= "gras">Préparation à la qualification développeur web et intégrateur web PHP orienté objet - Développement de la partie front-end et back-end d’un site internet Web et Web Mobile</span>
+                        <br>
+                            <br><span class= "gras">Langages de programmation et outils :</span>
+                            <br>
+                            <br>Visual Studio Code, Git Hub, HTML, CSS, SCSS, PHP, Javascript, JQuery, Ajax, phpMyAdmin, MySQL, Python, utilisation et création d’API, respect du modèle MVC, écriture de routes, lecture et écriture d’UML, Bootstrap, Figma, ORM/Doctrine.</p>
+                        <p><span class= "gras">Stage en entreprise :</span></p><p>Du 16 mai au 8 juin, d'une durée d'un mois chez APREX Solutions : Création d'une application Web métier pour une gestion en interne de leurs clients, des projets, des licences et des utilisateurs (CRUD et droits définis selon rôle de l'utilisateur connecté).</p>
+                    </div>
                 </div>
+
             </div>
             <div class="accordion-item">
 
